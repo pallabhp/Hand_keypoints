@@ -7,4 +7,5 @@
 **Index Terms**—Hand keypoint detection, hand masks, hand pose, multiscale attention, region of interest.
 
 ![block](Fig/block_diagram.png)
+
 Fig. 1. The block diagram of the proposed hand keypoint detection approach.
